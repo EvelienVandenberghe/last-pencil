@@ -1,7 +1,7 @@
 # last-pencil
 Last Pencil with Java 🖊️
 
-A classic strategy game implementation in Java where two players take turns removing pencils, and the player who takes the last pencil loses!
+A classic strategy game implementation in Java from Hyperskill where two players take turns removing pencils, and the player who takes the last pencil loses!
 
 🎮 How to Play:
 
